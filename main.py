@@ -4,6 +4,7 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 from iso3166 import countries
 
+# IF YOU ARE A RECRUITER AND ARE NOT FAMILIAR WITH PYTHON, SHOW THIS TO A SOFTWARE DEVELOPER AND THEY CAN RUN IT
 # ONCE YOU RUN, 7 PLOTLY GRAPHS WILL OPEN UP IN YOUR BROWSER AND ONE MATPLOTLIB GRAPH WILL OPEN UP ON YOUR DESKTOP
 
 pd.options.display.float_format = '{:,.2f}'.format
